@@ -1,4 +1,4 @@
-# E-commerce-Website
+# E-commerce Website
 
 Your Little Boutique is an ECommerce website built using MERN Stack configured on the server side by connecting Node.js and Express.js to MongoDB on the backend.
 
